@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murugansparkout&label=Profile%20views&color=0e75b6&style=flat" alt="murugansparkout" /> </p>
 
-- 🔭 I’m currently working in **Sparkout**
+- 🔭 I’m currently working as **Full Stack Developer**
 
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **murugan@sparkouttech.com**
+- 📫 How to reach me **muruganaccetcse@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
